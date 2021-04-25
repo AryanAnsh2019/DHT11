@@ -1,0 +1,4 @@
+#define SECRET_SSID "AndroidAP"
+#define SECRET_PASS "texu3406"
+#define SECRET_CH_ID 802978     
+#define SECRET_WRITE_APIKEY "X5PSNDU6Z30D7WBR" 
